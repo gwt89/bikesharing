@@ -8,7 +8,7 @@ The purpose of this analysis is to provide a business proposal that shows a bike
 Lastly I'll add these new visualizations to the two I created in the module for my final presentation.
 
 ## Tableaue Public Link
-https://public.tableau.com/views/NYCBike_16635330527970/NYCCitiBikeAnalysisChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+[link to dashboard](https://public.tableau.com/views/NYCBike_16635330527970/NYCCitiBikeAnalysisChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
 ![Checkout Times for Users](https://user-images.githubusercontent.com/105949411/190929551-1dd889a4-a107-4906-abe4-9b030ca36e9d.png)
