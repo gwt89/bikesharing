@@ -7,6 +7,10 @@ The purpose of this analysis is to provide a business proposal that shows a bike
 
 Lastly I'll add these new visualizations to the two I created in the module for my final presentation.
 
+## Resources
+* Data Source: https://citibikenyc.com/system-data, 201908-citibike-tripdata.csv.zip
+* Software: Python 3.9.12, Jupyter Notebook 6.4.8, Tableau Public 2022.3
+
 ## Tableaue Public Link
 [link to dashboard](https://public.tableau.com/views/NYCBike_16635330527970/NYCCitiBikeAnalysisChallenge?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
